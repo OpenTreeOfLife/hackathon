@@ -7,3 +7,8 @@ Dates: September 15-19, 2014
 
 Where: University of Michigan, Ann Arbor MI
 
+To begin, create a GitHub account and sign in. 
+
+To propose and idea, click the [Issues](https://github.com/OpenTreeOfLife/hackathon/issues) link on the right sidebar and then click the friendly greed "New Issue" button. Add a short, descriptive title and a longer description. You can "tag" another GitHub user by including @username in the description. You can reference another idea by using #ideanumber. 
+
+You can also comment on existing ideas, if you find something interesting, have questions or suggestions. 
