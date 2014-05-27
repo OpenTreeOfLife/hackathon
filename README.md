@@ -9,5 +9,5 @@ Where: University of Michigan, Ann Arbor MI
 
 To begin, create a GitHub account and sign in. Then, click the [Issues](https://github.com/OpenTreeOfLife/hackathon/issues) link on the right sidebar to browse the current list of issues. From here, you can:
 * comment on existing ideas, if you find something interesting, have questions or suggestions.  You can "tag" another GitHub user by including @username in the comment, or you can reference another issue by using #. 
-* add a new issue by clicking the friendly greed "New Issue" button. Add a short, descriptive title and a longer description. Again, you can tag users or other issues in the description. 
+* add a new issue by clicking the friendly green "New Issue" button. Add a short, descriptive title and a longer description. Again, you can tag users or other issues in the description. 
 
