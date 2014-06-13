@@ -35,9 +35,9 @@ scientists have not been developed yet.
 
 
 To facilitate the development of tools that use its resources,
-OpenTree, together with the [Arbor] (phylogenetic workflow) project and
+OpenTree, together with the [Arbor] project (phylogenetic workflows) and
 NESCent’s [HIP (Hackathons, Interoperability, Phylogenies) working
-group](HIP) is holding a 1-week hackathon (Sept 15 to 19, U. Michigan, Ann
+group][HIP] is holding a 1-week hackathon (Sept 15 to 19, U. Michigan, Ann
 Arbor). We invite interested programmers and non-programmers to engage
 in pre-hackathon planning, and apply for participation in the
 hackathon.
@@ -50,7 +50,7 @@ consumers. We envision a future in which the OpenTree data, as well as
 other sources of phylogenies and related data, are linked in an
 interoperable web of data and services. As a step toward this future,
 the OpenTree project has developed
-[online application programming interfaces](OpenTree APIs) (APIs) that
+[online application programming interfaces][OpenTree APIs] (APIs) that
 allow anyone to write programs to access their data directly and
 automatically. The upcoming hackathon is an opportunity to learn these
 interfaces, and to work with a team to generate some product
@@ -123,15 +123,15 @@ typically will be offered full travel support.
 ### Open-Source Requirement 
 
 All software produced at the hackathon will have an
-[OSI-approved open source license](OSI License), and will be developed
+[OSI-approved open source license][OSI License], and will be developed
 in the open with code on a public repository such as [GitHub] or
 [SourceForge] from the beginning of the event.
 
 ### Sponsors 
 
-This project is sponsored by [OpenTree], [Arbor] and the [HIP]
-(Hackathons, Interoperability, Phylogenies) working group of the
-National Evolutionary Synthesis Center ([NESCent]).
+This project is sponsored by [OpenTree], [Arbor] and the Hackathons,
+Interoperability, Phylogenies ([HIP]) working group of the National
+Evolutionary Synthesis Center ([NESCent]).
 
 ### For more information
 
