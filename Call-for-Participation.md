@@ -56,7 +56,6 @@ automatically. The upcoming hackathon is an opportunity to learn these
 interfaces, and to work with a team to generate some product
 (typically a software tool) that incorporates OpenTree interfaces.
 
-
 We encourage participation of anyone with an idea for a project that
 uses, tests, expands, or simply documents the APIs providing access to
 OpenTree data and services. Proposed products may represent end-user
