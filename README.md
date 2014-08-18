@@ -7,9 +7,11 @@ To begin, create a GitHub account and sign in. Then, click the [Issues](https://
 * comment on existing ideas, if you find something interesting, have questions or suggestions.  You can "tag" another GitHub user by including @username in the comment, or you can reference another issue by using #. 
 * add a new issue by clicking the friendly green "New Issue" button. Add a short, descriptive title and a longer description. Again, you can tag users or other issues in the description. 
 
-For more information about the hackathon, take a look at our [call for proposals](http://bit.ly/1ioPPMc). 
+For more information about the purpose of this hackathon, take a look at our [call for proposals](http://bit.ly/1ioPPMc). 
 
-Dates: September 15-19, 2014
+## Logistics and participant information
 
-Where: University of Michigan, Ann Arbor MI
+* [logistics](https://github.com/opentreeoflife/hackathon/wiki/Logistics): when and where
+* [Participants](https://github.com/opentreeoflife/hackathon/wiki/Participants) - who
+* [Hotel list](https://github.com/opentreeoflife/hackathon/wiki/Hotel-list) - who is staying where
 
