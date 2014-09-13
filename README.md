@@ -14,11 +14,12 @@ For more information about the purpose of this hackathon, take a look at our [ca
 * [logistics](https://github.com/opentreeoflife/hackathon/wiki/Logistics): when and where
 * [Participants](https://github.com/opentreeoflife/hackathon/wiki/Participants) - who
 * [Hotel list](https://github.com/opentreeoflife/hackathon/wiki/Hotel-list) - who is staying where
-* [Notes folder](https://drive.google.com/?tab=co&authuser=0#folders/0Bw-1ley90MKnNWtyZjEwbXIxN28) - a public google drive folder for notes and other documents
 
 ##Communication
 
 Twitter Hashtag: [#treeforall](https://twitter.com/search?f=realtime&q=%23treeforall&src=typd)
+
+[Notes folder](https://drive.google.com/?tab=co&authuser=0#folders/0Bw-1ley90MKnNWtyZjEwbXIxN28) - a public google drive folder for notes and other documents
 
 [![Visit our IRC channel](https://kiwiirc.com/buttons/irc.freenode.net/opentreeoflife.png)](https://kiwiirc.com/client/irc.freenode.net/?nick=guest|?#opentreeoflife)
 
