@@ -14,6 +14,7 @@ For more information about the purpose of this hackathon, take a look at our [ca
 * [logistics](https://github.com/opentreeoflife/hackathon/wiki/Logistics): when and where
 * [Participants](https://github.com/opentreeoflife/hackathon/wiki/Participants) - who
 * [Hotel list](https://github.com/opentreeoflife/hackathon/wiki/Hotel-list) - who is staying where
+* [Remote participantion](https://github.com/OpenTreeOfLife/hackathon/wiki/Remote-participation) - how to communicate during the event
 
 ##Communication
 
