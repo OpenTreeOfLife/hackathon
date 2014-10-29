@@ -1,11 +1,9 @@
 hackathon
 =========
 
-[Open Tree of Life](http://opentreeoflife.org), [Arbor](http://www.arborworkflows.com/) and [HIP](http://www.evoio.org/wiki/HIP) are jointly hosting a hackathon for testing, expanding and buiding up on the [Open Tree of Life APIs](https://github.com/OpenTreeOfLife/opentree/wiki/Open-Tree-of-Life-APIs). This repository is a place to generate and discuss potential projects ideas. 
+[Open Tree of Life](http://opentreeoflife.org), [Arbor](http://www.arborworkflows.com/) and [HIP](http://www.evoio.org/wiki/HIP) jointly held a hackathon for testing, expanding and buiding up on the [Open Tree of Life APIs](https://github.com/OpenTreeOfLife/opentree/wiki/Open-Tree-of-Life-APIs). This repository was a place to generate and discuss projects ideas. 
 
-To begin, create a GitHub account and sign in. Then, click the [Issues](https://github.com/OpenTreeOfLife/hackathon/issues) link on the right sidebar to browse the current list of issues. From here, you can:
-* comment on existing ideas, if you find something interesting, have questions or suggestions.  You can "tag" another GitHub user by including @username in the comment, or you can reference another issue by using #. 
-* add a new issue by clicking the friendly green "New Issue" button. Add a short, descriptive title and a longer description. Again, you can tag users or other issues in the description. 
+For a summary of the outcomes, take a look at this [google doc](https://docs.google.com/document/d/1aAwS5mH4iCmRW4aRlVe3po5GO8hB9CQw3e25NWoSAFM/edit) or the series of [blog posts](http://blog.opentreeoflife.org). 
 
 For more information about the purpose of this hackathon, take a look at our [call for proposals](http://bit.ly/1ioPPMc). 
 
