@@ -3,7 +3,7 @@ hackathon
 
 [Open Tree of Life](http://opentreeoflife.org), [Arbor](http://www.arborworkflows.com/) and [HIP](http://www.evoio.org/wiki/HIP) jointly held a hackathon for testing, expanding and buiding up on the [Open Tree of Life APIs](https://github.com/OpenTreeOfLife/opentree/wiki/Open-Tree-of-Life-APIs). This repository was a place to generate and discuss projects ideas. 
 
-For a summary of the outcomes, take a look at this [google doc](https://docs.google.com/document/d/1aAwS5mH4iCmRW4aRlVe3po5GO8hB9CQw3e25NWoSAFM/edit) or the series of [blog posts](http://blog.opentreeoflife.org). 
+For a summary of the outcomes, take a look at this [google doc](https://docs.google.com/document/d/1aAwS5mH4iCmRW4aRlVe3po5GO8hB9CQw3e25NWoSAFM/edit) or the series of [blog posts](http://blog.opentreeoflife.org/tag/hackathon/). 
 
 For more information about the purpose of this hackathon, take a look at our [call for proposals](http://bit.ly/1ioPPMc). 
 
